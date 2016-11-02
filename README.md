@@ -1,6 +1,7 @@
 # react-boilerplate
 
-A very simple React boilerplate to get you started with React as soon as possible.
+A very simple React boilerplate to get you started with React as soon as possible. Uses the Webpack development server
+which will automatically build your bundle, serve assets, and refresh your page as soon as it detects a change.
 
 ## Includes
 
